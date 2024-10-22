@@ -1,8 +1,3 @@
-# coding: utf-8
-# -*- coding: utf-8 -*-
-import sys
-import inspect
-
 功能 = [
     '''
     页码导航
