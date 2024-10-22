@@ -1,7 +1,6 @@
 [project]
 name = "hshmeng"
-version = "2024.10.22.2"
-dynamic = ["license"]
+version = "2024.10.22.3"
 authors = [{ name="hshmeng", email="hshmeng@foxmail.com" }]
 description = "You hshmeng ZhiZuoDeZhongWenBianChengBao"
 readme = "README.md"
