@@ -1,3 +1,6 @@
+import inspect
+import sys
+
 功能 = [
     '''
     页码导航

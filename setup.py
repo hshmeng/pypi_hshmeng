@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="hshmeng",
-    version="2024.10.22.5",
+    version="2024.10.22.6",
     author="hshmeng",
     author_email="hshmeng@foxmail.com",
     description='猛写的汉化',
