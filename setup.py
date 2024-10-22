@@ -3,10 +3,10 @@ from setuptools import setup, find_packages
 
 setup(
     name="hshmeng",
-    version="2024.10.22.6",
+    version="2024.10.23.1",
     author="hshmeng",
     author_email="hshmeng@foxmail.com",
-    description='猛写的汉化',
+    description='You hshmeng ZhiZuoDeZhongWenBianChengBao\n入门输入：from hshmeng.help import *\n帮助()',
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
     packages=find_packages(),  # 自动查找所有包
