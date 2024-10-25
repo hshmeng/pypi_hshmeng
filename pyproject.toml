@@ -2,7 +2,7 @@
 
 [project]
 name = "hshmeng"
-version = "2024.10.23.2"
+version = "2024.10.25.1"
 authors = [{ name="hshmeng", email="hshmeng@foxmail.com" }]
 description = "You hshmeng ZhiZuoDeZhongWenBianChengBao\n入门输入：from hshmeng.help import *\n帮助()"
 readme = "README.md"
