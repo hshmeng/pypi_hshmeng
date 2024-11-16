@@ -1,1 +1,1 @@
-from dazi import *
+from .dazi import *
