@@ -1,1 +1,1 @@
-from .help import *
+from help import *
