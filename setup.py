@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="hshmeng",
-    version="2024.12.6.1",
+    version="2025.5.29",
     author="hshmeng",
     author_email="hshmeng@foxmail.com",
     description='You hshmeng ZhiZuoDeZhongWenBianChengBao\n入门输入：from hshmeng.help import *\n帮助()',
